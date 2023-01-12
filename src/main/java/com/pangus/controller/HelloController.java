@@ -16,6 +16,7 @@ public class HelloController {
         System.out.println("master modify");
         System.out.println("local code");
          System.out.println("remote! code");
+        System.out.println("1234");
         return "helloworld";
     }
 }
